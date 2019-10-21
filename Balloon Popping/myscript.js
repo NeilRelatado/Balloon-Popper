@@ -20,7 +20,7 @@ var balloon18 = document.getElementById("balloon18");
 var balloon19 = document.getElementById("balloon19");
 var balloon20 = document.getElementById("balloon20");
 var balloon21 = document.getElementById('balloon21');
-var balloon22 = document.getElementById("balloon21");
+var balloon22 = document.getElementById("balloon22");
 var balloon23 = document.getElementById("balloon23");
 var yay = document.getElementById("yay-no-balloons");
 
